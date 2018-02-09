@@ -29,4 +29,5 @@ If you would like to try to run the same experiment as we did, you may clone thi
 javac MFDriver.java
 java MFDriver
 ```    
+It should automatically create a csv file in the repo.  
 Send us your results or post to the QAF!

@@ -18,6 +18,6 @@ We populated Matrices of size n\*n and tested the runtime of the MatrixFinder in
 #### Results
 Based on the graph that we created, our results look linear. 
 
-![](graph/OliverFrankGraph.PNG)
+![](OliverFrankGraph.png)
 
-![](graph/RaunakChowdhuryGraph.PNG)
+![](RaunakChowdhuryGraph.png)

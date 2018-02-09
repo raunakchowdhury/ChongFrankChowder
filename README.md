@@ -1,6 +1,6 @@
 # ChongFrankChowder
-Brandon Chong, Oliver Frank, Raunak Chowdhury
-Lab 00
+Brandon Chong, Oliver Frank, Raunak Chowdhury  
+Lab 00  
 2018-02-09
 
 #### Goal:
@@ -19,4 +19,5 @@ We populated Matrices of size n\*n and tested the runtime of the MatrixFinder in
 Based on the graph that we created, our results look linear. 
 
 ![](graph/OliverFrankGraph.PNG)
+
 ![](graph/RaunakChowdhuryGraph.PNG)

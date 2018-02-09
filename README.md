@@ -1,5 +1,5 @@
 # ChongFrankChowder
-Brandon Chong, Oliver Frank, Raunak Chowdery
+Brandon Chong, Oliver Frank, Raunak Chowdhury
 Lab 00
 2018-02-09
 
@@ -15,3 +15,8 @@ After coding the `MatrixFinder` class to always run in `O(n)`, in it's worst cas
 #### Experiment Methodology
 We populated Matrices of size n\*n and tested the runtime of the MatrixFinder in its worse case senario. The sizes of matrices we used ranged from each of 1000 to 10000. We decided to chose between 1000 to 10000 as our levels because anything smaller than 1000 is relatively small and insignificant, however and because if we went above 10000 we would lose in the interest of time. We wrote the resulting times for each size matrix into a csv file, with the horizontal axis as **n**, and the vertical axis as runtime in milliseconds. 
 
+#### Results
+Based on the graph that we created, our results look linear. 
+
+![](graph/OliverFrankGraph.PNG)
+![](graph/RaunakChowdhuryGraph.PNG)
